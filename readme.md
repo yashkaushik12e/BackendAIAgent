@@ -82,7 +82,7 @@ Razorpay account (test mode works)
 Installation
 
 bash# Clone the repo
-git clone https://github.com/yashkaushik12e/BackednAIAgent.git
+git clone https://github.com/yashkaushik12e/BackendAIAgent.git
 
 
 # Install dependencies
